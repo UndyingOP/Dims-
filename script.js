@@ -1,3 +1,3 @@
 function changetext(){
-  document.getElementById("title").innerHTML = " Dear Essie, I miss you and I can't stop thinking about you. Your vampire teeth, colesterol in right places, and your curious mind. And when you said you loved me, it felt nice. Your ex boyfriend Dims ";
+  document.getElementById("title").innerHTML = "  Dear Essie,   It's been a long year and you are not even halfway there. I came to a state, met a girl of my dreams, fell in love, got into your relationship, broke up, settled, and broke up again. For what it is worth, I will always love you and I know you do too. I know time might change how you feel about me, but while it yet to, I want you to love me now. Although right now we're just friends, yet, I don't love you less I miss you Essie and whatever the future might hold in store for us, I hope it is beautiful. From your ex boyfriend Dims ";
 }
