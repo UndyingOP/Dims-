@@ -1,0 +1,31 @@
+body { 
+  font-family: 'Arial', sans-serif;
+  text-align: center; 
+  margin: 0;
+  padding: 50px 20px;
+  background-color: #f9f9f9;
+}
+
+h1 { 
+  color: #2c3e50; 
+  font-size: 22px;      /* Shrinks the letter size */
+  line-height: 1.6;    /* Adds space between lines */
+  max-width: 600px;    /* Prevents it from stretching too wide */
+  margin: 0 auto 20px; /* Centers the text block */
+}
+
+h2 {
+  font-size: 18px;
+  color: #7f8c8d;
+}
+
+button {
+  padding: 12px 24px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: red ;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 20px;
+}
